@@ -5,7 +5,7 @@
    align-items: flex-start;
 
    & strong{
-      font-size: 500;
+      font-weight: 500;
       color: var(--text-highlight);
    }
 }
